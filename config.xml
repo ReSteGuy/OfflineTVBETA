@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.offline.offlinetv"
+    versionCode = "10"
+    version     = "0.1.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Offline</name>
+
+  <description>
+      A gift for Offline TV!
+  </description>
+
+  <author href="https://phonegap.com" email="contactrsstudios@gmail.com">
+      RS Studios
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
